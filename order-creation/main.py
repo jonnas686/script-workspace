@@ -2,7 +2,7 @@ import fire
 import json
 
 
-# order creation
+# process payment
 def main(param1: dict, param2: int):
     result = {
         "param1": param1,
